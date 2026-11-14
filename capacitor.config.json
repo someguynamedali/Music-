@@ -1,0 +1,6 @@
+{
+  "appId": "com.me.musicmover",
+  "appName": "MusicMover",
+  "webDir": "www",
+  "server": { "androidScheme": "http", "cleartext": true }
+}
